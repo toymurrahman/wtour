@@ -1,4 +1,4 @@
-import Countries from "../countries/countries";
+
 import "./Country.css";
 const Country = ({ country }) => {
   const { name, flags, population, area, cca3, capitals, region } = country;
